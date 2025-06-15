@@ -8,8 +8,8 @@ Esta herramienta permite **descifrar** y **descompilar** archivos del cliente [O
 
 - `otcv8_decrypt.exe`
 - `luajit-descompilador.exe`
-- Carpeta `encriptado` (con los archivos `.otmod` o `.lua` encriptados del cliente)
-- (Opcional) Carpeta `descifrado` (será creada automáticamente si no existe)
+- Carpeta `encrypt` (con los archivos `.otmod` o `.lua` encriptados del cliente)
+- (Opcional) Carpeta `decrypt` (será creada automáticamente si no existe)
 
 ---
 
